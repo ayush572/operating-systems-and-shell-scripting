@@ -4,3 +4,6 @@
 **18/12/22**
 * Learnt about the types of OS, what is OS and threadig in it.
 
+**19/12/22**
+* Learn't more about the context switching, kernel and user and kernel threads.
+
