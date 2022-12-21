@@ -7,3 +7,6 @@
 **19/12/22**
 * Learn't more about the context switching, kernel and user and kernel threads.
 
+**20/12/22**
+* Learn't about process states, process control block, process scheduler as well.
+
