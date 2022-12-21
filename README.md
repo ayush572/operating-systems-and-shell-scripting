@@ -10,3 +10,6 @@
 **20/12/22**
 * Learn't about process states, process control block, process scheduler as well.
 
+**21/12/22**
+* Learn't about the various scheduling algorithms such as FCFS, Shortest Job first search (both preemptive and non-preemptive), Priority scheduling (preemptive and non-preemptive) and Round Robin Scheduling algorithm.
+
