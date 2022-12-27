@@ -16,3 +16,6 @@
 **22/12/22**
 * Learn't about Multilevel queue scheduling and multilevel queue scheduling with feedback. Also started with the deadlock, why it can happen and methods for deadlock prevention. 
 
+**26/12/22**
+* Learn't about the Bankers algorithm and deadlock finding out and recovery as well
+
