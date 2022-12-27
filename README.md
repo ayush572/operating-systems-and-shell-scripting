@@ -19,3 +19,6 @@
 **26/12/22**
 * Learn't about the Bankers algorithm and deadlock finding out and recovery as well
 
+**27/12/22**
+* Learn't about process synchronization, why is it important, how does a system uffers from process inconsistency and methods of overcoming it via process synchronization. Started with semaphores as well.
+
