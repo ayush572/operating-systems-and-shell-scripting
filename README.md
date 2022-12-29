@@ -22,3 +22,6 @@
 **27/12/22**
 * Learn't about process synchronization, why is it important, how does a system uffers from process inconsistency and methods of overcoming it via process synchronization. Started with semaphores as well.
 
+**29/12/22**
+* Learn't about the implementation of semaphores, its working and Monitors in process synchronization
+
