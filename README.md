@@ -28,3 +28,6 @@
 **30/12/22**
 * Learn't about the priority inversion and how its handled. Also learn't about that how the programs are compiled and run and also about the memory management in Operating Systems.
 
+**1/1/23**
+* Learn't about the address and runtime binding. Also covered the evolution of memory management for single processes to multiple processes. Static Partitioning completed. Covered the basics of dynamic partitioning and the best fit, first fit, next fit and worst fit algorithms. Started with paging concept.
+
