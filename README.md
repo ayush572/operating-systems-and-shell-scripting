@@ -25,3 +25,6 @@
 **29/12/22**
 * Learn't about the implementation of semaphores, its working and Monitors in process synchronization
 
+**30/12/22**
+* Learn't about the priority inversion and how its handled. Also learn't about that how the programs are compiled and run and also about the memory management in Operating Systems.
+
