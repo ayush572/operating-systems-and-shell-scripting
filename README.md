@@ -31,3 +31,6 @@
 **1/1/23**
 * Learn't about the address and runtime binding. Also covered the evolution of memory management for single processes to multiple processes. Static Partitioning completed. Covered the basics of dynamic partitioning and the best fit, first fit, next fit and worst fit algorithms. Started with paging concept.
 
+**2/1/23**
+* Completed the paging concept and detailed working along with virtual memory as well. Only thing left now is the segmentation and segmentation with paging.
+
