@@ -34,3 +34,6 @@
 **2/1/23**
 * Completed the paging concept and detailed working along with virtual memory as well. Only thing left now is the segmentation and segmentation with paging.
 
+**3/1/23**
+* Completed all the topics of "Introduction to operating systems"
+
